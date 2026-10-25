@@ -7,6 +7,7 @@ I'm a college student at UTSA majoring in cybersecurity. I'm still learning abou
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
 ## 🎉 Interests
 - Cybersecurity and learning new technology
 - Working out and going to the gym
